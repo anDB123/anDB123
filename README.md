@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @anDB123
-- 👀 I’m interested in mathematical and scientific software development
-- 🌱 I’m currently learning machine learning with tensorflow
-- 💞️ I'm working on some beginner machine learning projects
+- Trying to learn Angular at the minute.
+- Know Python, C++ too!
+- Dayjob is in EDA Software
 - 📫 How to reach me Email: andrew.brown75@yahoo.com
 
 <!---
